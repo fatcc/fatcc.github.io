@@ -1,3 +1,3 @@
 # fatcc.github.io
 
-fat lady cc 博客
+博客:记录 积淀
